@@ -13,7 +13,7 @@ const RepositoryList = () => {
                     <Text>Nombre: {repo.fullName}</Text>
                     <Text>Descripcion: {repo.description}</Text>
                     <Text>Lenguaje: {repo.language}</Text>
-                    <Text>Estrelas: {repo.stargazersCount}</Text>
+                    <Text>Etrelas: {repo.stargazersCount}</Text>
                     <Text>Forks: {repo.forksCount}</Text>
                     <Text>Review: {repo.reviewCount}</Text>
                     <Text>Puntuacion: {repo.ratingAverage}</Text>
